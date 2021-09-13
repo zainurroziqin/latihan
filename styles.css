@@ -1,0 +1,30 @@
+#table-siswa{
+    border-collapse: collapse;
+    background-image: url(asset_pahlawan/tan_malaka.png);
+    font-size: 22px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+    border-width: 1px;
+    border-style: solid;
+    border-color:blue;
+
+    margin: auto;
+}
+.link{
+    color: red;
+    text-decoration: none;
+}
+
+#table-siswa td{
+    padding: 20px;
+}
+
+#table-siswa h3{
+    font-size: 32px; 
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+}
